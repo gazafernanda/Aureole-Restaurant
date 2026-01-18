@@ -814,6 +814,14 @@ h5 {
   .md\:top-16 {
     top: 4rem;
   }
+
+  .md\:text-7xl {
+    font-size: clamp(3.5rem, 8vw, 7rem);
+  }
+
+  .md\:tracking-widest {
+    letter-spacing: 0.35em;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -823,6 +831,10 @@ h5 {
 
   .lg\:hidden {
     display: none;
+  }
+
+  .lg\:text-9xl {
+    font-size: clamp(5rem, 14vw, 12rem);
   }
 }
 

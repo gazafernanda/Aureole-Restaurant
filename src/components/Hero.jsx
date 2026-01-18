@@ -54,7 +54,7 @@ const Hero = () => {
                     Michelin Gastronomy
                 </motion.span>
 
-                <h1 className="text-7xl md:text-9xl uppercase tracking-widest mb-10 font-serif leading-none opacity-95 overflow-hidden">
+                <h1 className="text-4xl md:text-7xl lg:text-9xl uppercase tracking-widest mb-10 font-serif leading-none opacity-95 overflow-hidden">
                     <RevealText delay={0.6}>Auréole</RevealText>
                 </h1>
 
