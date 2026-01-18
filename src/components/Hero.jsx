@@ -51,7 +51,7 @@ const Hero = () => {
                     transition={{ delay: 0.5, duration: 1.5 }}
                     className="text-bronze uppercase tracking-ultra text-xs mb-12 block font-light"
                 >
-                    Michelin GastronomyhflaeblgkbagklklgbwnkNKN;LKN;
+                    Michelin Gastronomy
                 </motion.span>
 
                 <h1 className="text-7xl md:text-9xl uppercase tracking-widest mb-10 font-serif leading-none opacity-95 overflow-hidden">
