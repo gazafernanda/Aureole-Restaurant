@@ -30,13 +30,7 @@ const Hero = () => {
                 />
             ))}
 
-            <motion.div
-                initial={{ scaleY: 0 }}
-                animate={{ scaleY: 1 }}
-                transition={{ delay: 2, duration: 1.5, ease: [0.16, 1, 0.3, 1] }}
-                className="absolute top-16 left-16 w-px h-24 origin-top hidden md:block"
-                style={{ background: 'linear-gradient(to bottom, var(--color-bronze), transparent)' }}
-            />
+
             <motion.div
                 initial={{ scaleX: 0 }}
                 animate={{ scaleX: 1 }}
